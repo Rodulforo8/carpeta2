@@ -1,0 +1,18 @@
+GIT HUB
+
+click derecho--- git bash----git init = Inicia el repositorio
+git status= Ve el estado del git
+git add "nombre"= agrega individual
+git add. =agrega todo
+git rm -- cached nombre=elimina los cambios realizados
+git commit=agrega cambios especificos
+
+Flujo de git
+
+Para mandar la informacion al repositorio.
+git add. ------ git commid -m "nombre del commit" ------ git push origin master
+
+Para traer la informacion a la carpeta
+
+git remote add origin (link del repositorio)
+git pull origin master 
